@@ -22,7 +22,7 @@ function GetGlobalConnectionOptions()
 {
     return
         array(
-          'server' => '172.30.2.2',
+          'server' => '10.10.7.74',
           'port' => '3306',
           'username' => 'root',
           'password' => 'a1a1A!A!',
